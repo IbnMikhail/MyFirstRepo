@@ -1,1 +1,2 @@
+What I have learned from this course
 One of the key things I’ve learned so far in this course is how to use GitHub for version control and collaboration. I now understand how to create repositories, commit changes, and work with branches, which are essential skills for managing code and working on projects with a team. Learning GitHub has shown me how important it is to track progress, collaborate efficiently, and maintain organized, professional code in the real world
